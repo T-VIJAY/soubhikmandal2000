@@ -26,6 +26,10 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhikmandal2000&" alt="soubhikmandal2000" /></p>
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soubhik-mandal-29a59a1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soubhik-mandal-29a59a1bb/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/soubhik-mandal-29a59a1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soubhik-mandal-29a59a1bb/" height="25" width="25" /></a>
+<p align="center">
+<a href="mailto:soubhikmandal2000@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="mailto:soubhikmandal2000@gmail.com" height="25" width="25" /></a>
+<p align="center">
+<a href="https://unknowndada.blogspot.com/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2019/09/12/13/47/pictogram-4471660_1280.png" alt="https://unknowndada.blogspot.com/" height="25" width="30" /></a>
