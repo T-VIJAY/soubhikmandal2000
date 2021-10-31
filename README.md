@@ -26,7 +26,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhikmandal2000&" alt="soubhikmandal2000" /></p>
 
-<h4 align="center">Connect with me:</h4>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soubhik-mandal-29a59a1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soubhik-mandal-29a59a1bb/" height="25" width="25" /></a>
 <p align="center">
